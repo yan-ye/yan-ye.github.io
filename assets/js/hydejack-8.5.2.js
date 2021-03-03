@@ -1,15 +1,5 @@
 /*!
- *  __  __                __                                     __
- * /\ \/\ \              /\ \             __                    /\ \
- * \ \ \_\ \   __  __    \_\ \      __   /\_\      __       ___ \ \ \/'\
- *  \ \  _  \ /\ \/\ \   /'_` \   /'__`\ \/\ \   /'__`\    /'___\\ \ , <
- *   \ \ \ \ \\ \ \_\ \ /\ \L\ \ /\  __/  \ \ \ /\ \L\.\_ /\ \__/ \ \ \\`\
- *    \ \_\ \_\\/`____ \\ \___,_\\ \____\ _\ \ \\ \__/.\_\\ \____\ \ \_\ \_\
- *     \/_/\/_/ `/___/> \\/__,_ / \/____//\ \_\ \\/__/\/_/ \/____/  \/_/\/_/
- *                 /\___/                \ \____/
- *                 \/__/                  \/___/
- *
- * Powered by Hydejack v8.5.2 <https://hydejack.com/>
+ * 所爱隔山海，山海不可平，海有舟可渡，山有路可行,此爱翻山海，山海皆可平            
  */
 !function (t) {
     var e = {};
@@ -59,7 +49,6 @@
 }, function (t, e, r) {
     var n = r(26)("wks"), i = r(22), o = r(2).Symbol, s = "function" == typeof o;
     (t.exports = function (t) {
-        console.log(n[t] || (n[t] = s && o[t] || (s ? o : i)("Symbol." + t)), '>>>>>>>>>>>')
         return n[t] || (n[t] = s && o[t] || (s ? o : i)("Symbol." + t))
     }).store = n
 }, function (t, e, r) {
@@ -5951,7 +5940,7 @@
 }, function (t, e) {
     window.requestIdleCallback = window.requestIdleCallback || (t => window.setTimeout(t, 0)), window.cancelIdleCallback = window.cancelIdleCallback || window.clearTimeout
 }, function (t, e) {
-    console.log(" __  __                __                                     __         \r\n/\\ \\/\\ \\              /\\ \\             __                    /\\ \\        \r\n\\ \\ \\_\\ \\   __  __    \\_\\ \\      __   /\\_\\      __       ___ \\ \\ \\/'\\    \r\n \\ \\  _  \\ /\\ \\/\\ \\   /'_` \\   /'__`\\ \\/\\ \\   /'__`\\    /'___\\\\ \\ , <    \r\n  \\ \\ \\ \\ \\\\ \\ \\_\\ \\ /\\ \\L\\ \\ /\\  __/  \\ \\ \\ /\\ \\L\\.\\_ /\\ \\__/ \\ \\ \\\\`\\  \r\n   \\ \\_\\ \\_\\\\/`____ \\\\ \\___,_\\\\ \\____\\ _\\ \\ \\\\ \\__/.\\_\\\\ \\____\\ \\ \\_\\ \\_\\\r\n    \\/_/\\/_/ `/___/> \\\\/__,_ / \\/____//\\ \\_\\ \\\\/__/\\/_/ \\/____/  \\/_/\\/_/\r\n                /\\___/                \\ \\____/                           \r\n                \\/__/                  \\/___/                            \n\n"), console.log("Powered by Hydejack v8.5.2 <https://hydejack.com/>")
+    console.log("-->"), console.log(" 所爱隔山海，山海不可平，海有舟可渡，山有路可行,此爱翻山海，山海皆可平")
 }, function (t, e, r) {
     var n = r(64), i = r(142), o = {};
     for (var s in n) n.hasOwnProperty(s) && (o[n[s]] = s);
