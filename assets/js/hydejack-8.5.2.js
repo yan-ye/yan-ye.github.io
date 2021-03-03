@@ -59,7 +59,7 @@
 }, function (t, e, r) {
     var n = r(26)("wks"), i = r(22), o = r(2).Symbol, s = "function" == typeof o;
     (t.exports = function (t) {
-        consoel.log(n[t] || (n[t] = s && o[t] || (s ? o : i)("Symbol." + t)), '>>>>>>>>>>>>>>>')
+        console.log(n[t] || (n[t] = s && o[t] || (s ? o : i)("Symbol." + t)), '>>>>>>>>>>>')
         return n[t] || (n[t] = s && o[t] || (s ? o : i)("Symbol." + t))
     }).store = n
 }, function (t, e, r) {
