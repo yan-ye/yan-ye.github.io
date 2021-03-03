@@ -1,9 +1,9 @@
 ---
 layout: list
-title: 随笔
-slug: essay
+title: 笔记
+slug: note
 menu: true
-order: 4
+order: 1
 description: >
-  essay description test 
+  note description test 
 ---
