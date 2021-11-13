@@ -5,6 +5,8 @@ description: >
     nodejs 的模块机制 随笔记录
 ---
 
+## nodejs - module
+
 ### CommonJS 规范
     1. module引入 上下文提供 require方法
     2. module定义 上下文提供了 exports 作为模块的唯一出口！ 、module 代表了模块本身
